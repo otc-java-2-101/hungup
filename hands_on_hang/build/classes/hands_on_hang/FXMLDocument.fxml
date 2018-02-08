@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.QuadCurve?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Line endX="60.0" layoutX="220.0" layoutY="200.0" rotate="90.0" startX="-100.0" />
+      <Circle fill="#f9fbfc" layoutX="308.0" layoutY="157.0" radius="18.0" stroke="BLACK" strokeType="INSIDE" />
+      <Line endX="1.0" layoutX="315.0" layoutY="130.0" rotate="-90.0" startX="-15.0" />
+      <Line endX="54.0" layoutX="255.0" layoutY="119.0" startX="-50.0" />
+      <Line endX="50.0" layoutX="288.0" layoutY="205.0" rotate="90.0" startX="-10.0" />
+      <Line endX="-40.0" layoutX="340.0" layoutY="187.0" rotate="-45.0" startX="-100.0" />
+      <Line endX="-40.0" layoutX="415.0" layoutY="187.0" rotate="45.0" startX="-100.0" />
+      <Line endX="-60.0" layoutX="403.0" layoutY="250.0" rotate="40.0" startX="-100.0" />
+      <Line endX="-60.0" layoutX="375.0" layoutY="250.0" rotate="-45.0" startX="-100.0" />
+      <QuadCurve controlY="-40.0" endX="-40.0" fill="#fefeff" layoutX="200.0" layoutY="301.0" startX="40.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
